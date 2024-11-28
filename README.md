@@ -1,13 +1,19 @@
 **Name:** SHARMILA
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS9800
+
 *Domain:** SOFTWARE TESTING
+
 **Duration:** NOVEMBER to DECEMBER 2024
+
 **Mentor:** Neela Santhosh Kumar
 
 ## Project Overview 
 
 ### Project: Functional Testing with Selenium
+
 ### Objective:
 The objective of this project is to perform functional testing on the Sauce Demo e-commerce website using Selenium WebDriver. The goal is to automate the user journey, from logging in to checking out, to ensure the website's functionality works as expected.
 
